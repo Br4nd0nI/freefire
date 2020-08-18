@@ -1,0 +1,4 @@
+bala=360k/h
+caminar=3km/h
+correr=10km/h
+saltar= 1m
